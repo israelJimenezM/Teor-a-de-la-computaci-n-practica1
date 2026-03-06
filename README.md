@@ -42,10 +42,10 @@ Contiene un resumen rapido de las reglas matematicas y los limites de generacion
 
 ## Instrucciones de Ejecucion
 
-1. Descargue el archivo `practica.py` de este repositorio.
+1. Descargue el archivo `practica1.py` de este repositorio.
 2. Abra una terminal, editor de codigio o IDE en la carpeta del archivo.
 3. Ejecute el comando:
    ```bash
-   python gui_string_ops.py
+   python practica1.py
 4. En su defecto solo ejecutar el .py desde el IDE o editor de codigo, instalando algunas extenciones en caso de ser necesarias dependiendo del programa para     ejecutar el codigo.
    
