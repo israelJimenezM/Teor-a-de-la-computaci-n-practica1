@@ -1,4 +1,4 @@
-"""
+""""""
 Teoría de la Computación - ESCOM IPN
 Aplicación interactiva para:
   - Prefijos, Sufijos, Subcadenas, Cerraduras (Prácticas anteriores)
